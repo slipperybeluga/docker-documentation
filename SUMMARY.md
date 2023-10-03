@@ -17,7 +17,7 @@
 * [Volumes](general/volumes.md)
 * [Fleet](general/fleet.md)
 * [SWAG setup](general/swag.md)
-* [Awesome LSIO](general/awesome-lsio.md)
+* [Container list and descriptions](general/container-descriptions.md)
 
 ## Images
 
